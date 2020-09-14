@@ -1,0 +1,2 @@
+# xxhash
+Craftinfo for xxhash
